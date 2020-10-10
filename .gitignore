@@ -1,0 +1,6 @@
+# 忽略bulid文件
+bulid/
+# 忽略doc 下面的pdf
+doc/*.pdf
+# 忽略dex.css
+dex.css
